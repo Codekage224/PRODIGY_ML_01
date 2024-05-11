@@ -1,5 +1,4 @@
 # A linear Regression model which predicts housing prices from a region (Here-California)
-<br>
 Greeting Everyone !!. This project was done as a part of my internship Tasks from PRODIGYINFOTECH.<br> <br> Here i've implemented a linear Regression model which takes Parameters from the Dataset and use it to compute the results.<br>
 <br>
 The DataSet used here is taken from kaggle using Kaggle API and the code is ran in Google COLAB .<br>

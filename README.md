@@ -5,7 +5,7 @@ The DataSet used here is taken from kaggle using Kaggle API and the code is ran 
 For those who trying to run this there colab , First upload your kaggle-api-token (A json file named - kaggle.json) and then run the code.
 #### Steps involved were :- 
 1) Get the dataset,
-2) 2) Drop incomplete or Unwanted Data from the Data set(Done using analysing Co-relation matrix),
+2) Drop incomplete or Unwanted Data from the Data set(Done using analysing Co-relation matrix),
 3) Engineer some additional features,
 4) Make Train_Test_Split ,
 5) Fit the training Data ,

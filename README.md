@@ -3,7 +3,7 @@ Greeting Everyone !!. This project was done as a part of my internship Tasks fro
 <br>
 The DataSet used here is taken from kaggle using Kaggle API and the code is ran in Google COLAB . [Dataset link](https://www.kaggle.com/datasets/camnugent/california-housing-prices/data)<br>
 <br>
-For those who trying to run this there colab , First upload your kaggle-api-token (A json file named - kaggle.json) and then run the code.<br>
+For those who trying to run this there colab , First upload your kaggle-api-token (A json file named - kaggle.json) and then run the code.
 <br>
 #### Steps involved were :- 
 1) Get the dataset,
